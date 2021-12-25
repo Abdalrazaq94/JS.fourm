@@ -9,7 +9,7 @@ body {
 	background-color: #9b59b6;
 	font-family: 'Open Sans', sans-serif;
 	display: flex;
-	align-items: center;
+	align-items: right;
 	justify-content: center;
 	min-height: 100vh;
 	margin: 0;
